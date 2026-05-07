@@ -1,0 +1,1 @@
+# appstrice-pharmacy-pos
